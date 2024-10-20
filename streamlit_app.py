@@ -1,5 +1,7 @@
 import streamlit as st
+import pandas as pd
+import numpy as np
 
-st.title('🎈 App Name')
+st.title('Machine learning app')
 
-st.write('Hello world!')
+st.info('This app builds a machine learning model!')
