@@ -4,13 +4,9 @@ import pandas as pd
 from sklearn.ensemble import RandomForestClassifier
 import datetime as dt
 
-st.info(df)
-
 st.title('🤖 Machine Learning App')
 
 st.info('This is app builds a machine learning model!')
-
-
 
 with st.expander('Data'):
   st.write('**Raw data**')
