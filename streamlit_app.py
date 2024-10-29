@@ -3,7 +3,6 @@ import numpy as np
 import pandas as pd
 from sklearn.ensemble import RandomForestClassifier
 import datetime as dt
-import meteomatics.api as api
 
 username = 'private_neves_jorge'
 password = 'NEtUT99yp5'
